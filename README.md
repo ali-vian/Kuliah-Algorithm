@@ -1,3 +1,3 @@
 # Kuliah-Algoritm
-Daftar code matkul Algoritma Pemroggraman 
-catatan dan soal selama kuliah algoritma pemroggraman menggunakan python
+Daftar code mata kuliah Algoritma Pemrogramman 
+catatan dan soal selama kuliah algoritma pemrogramman menggunakan python
